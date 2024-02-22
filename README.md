@@ -7,6 +7,4 @@ Search for a product: Enables the user to search for a product by name or other 
 
 Delete a product: Allows the user to remove a product from the inventory.
 
-Modify a product: Provides functionality for the user to update the information of an existing product.
-
 Sort products by price: Implements a selection sort algorithm to arrange products by price, either from least expensive to most expensive or vice versa.
