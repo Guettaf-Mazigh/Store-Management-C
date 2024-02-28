@@ -1,5 +1,5 @@
 # Store-Management-C
-Store-Management-C is a mini project developed in C for managing store inventory. It provides the following functionalities:
+Store-Management-C is a mini project developed in C for managing store inventory. It provides the following functionalities, implemented using linked lists:
 
 Add a product: Allows the user to add a new product to the inventory by entering all necessary information.
 
